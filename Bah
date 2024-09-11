@@ -1,0 +1,7 @@
+#codigo a baixo loop
+#iniciando a variavel
+contador =0
+#ultilizando o while
+while contador <50:
+    print ("o valor do contador é:", contador) 
+    contador += 1
